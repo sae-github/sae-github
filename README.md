@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sae Ito</h1>
 <h3 align="center">Welcome to my profile!</h3>
 
-- 📝 I regularly write articles on [https://itosae.com/](https://itosae.com/)
+- 📝 I regularly write articles on [My Blog](https://itosae.com/)
 
 <!--
 **sae-github/sae-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
