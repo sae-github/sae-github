@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sae Ito</h1>
 <h3 align="center">Welcome to my profile!</h3>
 
-- 📝 I regularly write articles on [My Blog](https://itosae.com/)
+- 📝 I regularly write articles on [Blog](https://itosae.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
