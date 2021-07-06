@@ -1,10 +1,12 @@
 
 ### Hi there 👋
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@sae_prog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sae_prog" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/sae-code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/sae-code" height="30" width="40" /></a>
+</p>
 
--📝私は定期的に[https：// itosae.com/](https://itosae.com/）<h3
-
-align = "left">私とつながる：</ h3>
 <!--
 **sae-github/sae-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
