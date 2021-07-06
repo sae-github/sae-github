@@ -1,5 +1,10 @@
 
 ### Hi there 👋
+
+
+-📝私は定期的に[https：// itosae.com/](https://itosae.com/）<h3
+
+align = "left">私とつながる：</ h3>
 <!--
 **sae-github/sae-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
