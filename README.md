@@ -18,6 +18,6 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
   </a>
   
-[![Stats](https://github-readme-stats.vercel.app/api?username=otsukasatoshi&count_private=true&show_icons=true)](https://github.com/sae-github)
+[![Stats](https://github-readme-stats.vercel.app/api?username=sae-github&count_private=true&show_icons=true)](https://github.com/sae-github)
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otsukasatoshi&layout=compact)](https://github.com/sae-github)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sae-github&layout=compact)](https://github.com/sae-github)
