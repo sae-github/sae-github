@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sae Ito</h1>
+### Hi there 👋
 <!--
 **sae-github/sae-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
