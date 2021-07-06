@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="http://twitter.com/sae-prog">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/sae-prog?label=Twitter&logo=twitter&style=flat" />
   </a>
   
 [![Stats](https://github-readme-stats.vercel.app/api?username=sae-github&count_private=true&show_icons=true)](https://github.com/sae-github)
