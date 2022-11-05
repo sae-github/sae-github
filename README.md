@@ -4,9 +4,8 @@
 <h3>Profile:</h3>
 
 🏠 埼玉県在住<br>
-👩‍💻 Web制作コーダー<br>
+👩‍💻 駆け出しのフロントエンドエンジニア<br>
 ✍️ JavaScript/React/TypeScriptを勉強中<br>
-✨ フロントエンドエンジニアを目指しています<br>
 
 <h3>Appeal:</h3>
 
