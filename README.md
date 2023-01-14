@@ -13,7 +13,7 @@
 <img src="https://www.codewars.com/users/sae-github/badges/large" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sae-github&theme=gotham&show_icons=true)
+
 
 
 
